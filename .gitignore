@@ -1,4 +1,5 @@
 *.iml
+git add -f assets/*
 .gradle
 /local.properties
 /.idea/caches
